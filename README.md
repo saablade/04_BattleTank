@@ -7,3 +7,4 @@
 * BT05 Landscape Setup and Scaling
 * BT06 A Landscaping Process
 * BT07 Upgrading Engine Version
+* BT08 Using Landscape Layers
