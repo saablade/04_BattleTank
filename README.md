@@ -14,3 +14,4 @@
 * BT12 Actors from Multiple Meshes
 * BT13 Configuring a Tank
 * BT14 3rd Person Camera Control
+* BT15 Fixing 3rd Person Camera Rotation
