@@ -22,3 +22,6 @@
 * BT20 Trial Packaging You Game
 * BT21 Delegating to Components
 * BT22 Using Virtual and Overide
+* BT23 Overloading and Polymorphism
+* BT24 Virtual Functions and Vtables
+* BT25 Creating an AI Controller Class
